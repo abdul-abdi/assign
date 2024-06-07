@@ -14,3 +14,18 @@ This project is a multipurpose calculator application developed using PHP. The c
 - Percentage calculation
 - Square root calculation
 - Logarithm calculation
+
+## Testing the Application
+1. Open the Web Application:
+    - Go to http://localhost/calculator-app.
+
+### Using the Calculator:
+
+1. Enter the first number.
+2. Select the desired operation.
+3. Enter the second number (if applicable).
+4. Click "Calculate" to see the result.
+5. View the Result:
+
+- The result will be displayed at the bottom.
+- Error messages will appear for invalid inputs.
