@@ -18,7 +18,7 @@ This project is a multipurpose calculator application developed using PHP. The c
 ## Testing the Application
 
 1. Open the Web Application:
-    - Go to http://localhost/calculator-app.
+    - Go to (http://localhost/port-no).
 
 ### Using the Calculator:
 
