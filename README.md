@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a multipurpose calculator application developed using PHP. The calculator can perform basic arithmetic operations as well as more complex mathematical calculations.
+This project is a multipurpose calculator application developed using PHP. The calculator can perform basic arithmetic operations as well as more complex mathematical calculations.s
 
 ## Features
 
@@ -18,7 +18,7 @@ This project is a multipurpose calculator application developed using PHP. The c
 ## Testing the Application
 
 1. Open the Web Application:
-    - Go to the URL:(https://abdul-abdi.github.io/assign/)
+    - Go to http://localhost/calculator-app.
 
 ### Using the Calculator:
 
