@@ -70,6 +70,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
+    <div><canvas id="matrix"></canvas>
+    </div>
     <div class="container">
         <h1>Calculator</h1>
         <?php if (isset($error)) { ?>
@@ -94,5 +96,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             <p class="result">Result: <?php echo $result; ?></p>
         <?php } ?>
     </div>
+    <script src="matrix.js"></script>
 </body>
 </html>
