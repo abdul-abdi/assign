@@ -16,8 +16,9 @@ This project is a multipurpose calculator application developed using PHP. The c
 - Logarithm calculation
 
 ## Testing the Application
+
 1. Open the Web Application:
-    - Go to http://localhost/calculator-app.
+    - Go to the URL:(https://abdul-abdi.github.io/assign/)
 
 ### Using the Calculator:
 
